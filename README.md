@@ -1,6 +1,7 @@
 # Electronic Sales Dashboard Report
 
-![image](https://github.com/user-attachments/assets/d8e58d67-4e2c-4368-8d78-e040a29c9641)
+![dashboard](https://github.com/user-attachments/assets/ffffce26-1d45-4d53-8b5b-8092dc7f7575)
+
 
 ## Overview
 This repository contains a report summarizing the analysis of electronic sales in the United States for four months in 2019. The analysis covers 19 products and highlights key sales trends, product demand, and geographic insights.
